@@ -1,3 +1,6 @@
+div{
+    background-color: black;
+}
 h1 {
     text-align: center;
     background-color:#2e2285;
@@ -10,10 +13,20 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: white;
 }
 
-#starters_images_div img {
+p{
+    color: white;
+}
+li{
+    color: white;
+}
+h3 {
+   color: white;
+}
+
+#starters_image_div img {
     
     border: 5px solid #2e2285;
     
@@ -28,6 +41,9 @@ h2 {
     background-color: limegreen;
     border: 1px solid yellow;
 }
+#each_pokemon_container_div{
+    text-align: center;
+}
 #charmander_container{
     border-radius: 25px;
     height: 150px;
@@ -39,4 +55,11 @@ h2 {
     height: 150px;
     background-color: blue;
     border: 1px solid yellow;
+}
+p{
+    margin-top: 0px;
+}
+
+p{
+    margin-top: 0px;
 }
